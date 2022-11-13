@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shuhbhm (Shubham Gaikwad)
-- 👀 I’m interested in Data Analysis.
-- 🌱 I’m currently learning Data Analysis & Machine learning.
-- 💞️ I’m looking to collaborate on Data Analysis projects.
+- 👋 Hi, I’m Shubham Gaikwad (@shuhbhm)
+- 👀 I’m interested in AI / ML.
+- 🌱 I’m currently learning AI & Machine learning.
+- 💞️ I’m looking to collaborate on Data Sience projects.
 - 📫 Reach me via linkedin www.linkedin.com/in/shubham-gaikwad712
 
 
